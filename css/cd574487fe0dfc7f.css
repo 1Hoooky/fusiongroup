@@ -1,0 +1,62 @@
+@font-face {
+    font-family: Europa Grotesk;
+    src: url(/fonts/EuropaGroteskSH-Reg.otf);
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Europa Grotesk;
+    src: url(/fonts/EuropaGroteskSH-Med.otf);
+    font-weight: 500;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Europa Grotesk;
+    src: url(/fonts/EuropaGroteskSH-Med.otf);
+    font-weight: 600;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Europa Grotesk;
+    src: url(/fonts/EuropaGroteskSH-Bol.otf);
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Skylight Graffiti;
+    src: url(/fonts/Skylight-Graffiti.otf);
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Articulat CF;
+    src: url(/fonts/ArticulatCF-Heavy.woff);
+    font-weight: 900;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Articulat CF;
+    src: url(/fonts/ArticulatCF-Medium.woff);
+    font-weight: 500;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Articulat CF;
+    src: url(/fonts/ArticulatCF-Regular.woff);
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Articulat CF;
+    src: url(/fonts/ArticulatCF-Light.woff);
+    font-weight: 300;
+    font-style: normal
+}
